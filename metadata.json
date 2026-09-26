@@ -1,0 +1,6 @@
+{
+  "name": "Team Prothemus — NASA Space Apps 2026",
+  "description": "Official project launchpad and countdown portal for Team Prothemus competing in the NASA Space Apps Challenge 2026, launching November 14, 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
